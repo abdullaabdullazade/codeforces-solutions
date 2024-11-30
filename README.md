@@ -1,5 +1,5 @@
 ```markdown
-#🚀 Codeforces Solutions
+🚀 Codeforces Solutions
 
 Bu repo Codeforces platformasında həll etdiyim alqoritmik problemləri əhatə edir. 📚  
 Həm kodlarımın inkişafını, həm də təcrübəmi bölüşmək məqsədi ilə bu həlləri buraya yüklədim. 🔥
