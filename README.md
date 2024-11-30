@@ -11,7 +11,7 @@ Həm kodlarımın inkişafını, həm də təcrübəmi bölüşmək məqsədi il
 
 📦 Necə istifadə etməli
 1. Bu repozitoriyanı klonlayın:  
-   ```bash
+ 
    git clone https://github.com/abdullaabdullazade/codeforces-solutions
 ```
 
