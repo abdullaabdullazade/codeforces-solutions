@@ -30,7 +30,3 @@ Bu layihənin məqsədi:
 🔗 **Codeforces Profilim**: [Abdulla's Profile](https://codeforces.com/profile/XXXBATTLEMCXXX)
 
 ```
-
----
-
-Bu faylı öz zövqünə uyğun dəyişə bilərsən, məsələn, fərqli emoji və ya yeni bölmələr əlavə edə bilərsən. 😊
