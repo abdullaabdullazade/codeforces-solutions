@@ -1,19 +1,20 @@
 ```markdown
-# 🚀 Codeforces Solutions
+#🚀 Codeforces Solutions
 
 Bu repo Codeforces platformasında həll etdiyim alqoritmik problemləri əhatə edir. 📚  
 Həm kodlarımın inkişafını, həm də təcrübəmi bölüşmək məqsədi ilə bu həlləri buraya yüklədim. 🔥
 
 
-## 🛠️ İstifadə olunan dillər
-- 💻 **C++**: Yüksək performanslı məsələlər üçün  
-- 🐍 **Python**: Sürətli testlər və rahatlıq üçün  
+🛠️ İstifadə olunan dillər
+- 💻 C++: Yüksək performanslı məsələlər üçün  
+- 🐍 Python: Sürətli testlər və rahatlıq üçün  
 
-## 📦 Necə istifadə etməli
+📦 Necə istifadə etməli
 1. Bu repozitoriyanı klonlayın:  
    ```bash
    git clone https://github.com/abdullaabdullazade/codeforces-solutions
-   ```
+```
+
 2. Hər hansı bir problemi açın və həlli incələyin.  
 
 ## 🌟 Motivasiya
